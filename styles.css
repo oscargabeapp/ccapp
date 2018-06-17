@@ -1,0 +1,574 @@
+.html
+{
+	min-height: 100%;
+}
+#dom
+{
+	background-color: #ffffff;
+	margin-left: 0px;
+	margin-right: 0px;
+margin: 0px;
+
+
+}
+#portada
+{
+	text-align: center;
+	display: inline-block;
+	width:100%;
+}
+.rectangulos
+{
+	float: left;
+	display: inline-block;
+	height: 50%;
+
+}
+.logo1
+{
+	height: 17em;
+	width: 17em;
+}
+h1
+{
+	color:white;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+
+body, html {
+   height:98%
+}
+
+
+/*HEADER*/
+header
+{
+	background-color: #238c47;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+#headerimg
+{
+	background-color: #238c47;
+	overflow: hidden;
+	margin-bottom: 0px;
+
+}
+
+.carouselheader
+{}
+.pagetitle
+{
+	
+	float: left;
+}
+.pagetitlecar
+{
+	float: left;
+	margin-top: 14.4px;
+	margin-bottom: 14.4px;
+	
+}
+
+.pagetitle2
+{
+	
+	float: left;
+	margin-left: 10px;
+}
+#icono
+{
+	color:white;
+	font-size: 20px;
+	margin: 10px;
+	margin-top: 16px;
+	float:left;
+}
+#iconosocial
+{
+	color:white;
+	font-size: 20px;
+	padding-left: 22%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+
+	
+}
+#iconosocial2
+{
+	color:white;
+	font-size: 20px;
+	padding-left: 22%;
+		padding-top: 5px;
+	padding-bottom: 5px;
+	
+	
+}
+#iconoblack
+{
+	color:black;
+	font-size: 20px;
+	margin: 10px;
+	margin-top: 16px;
+	float:left;
+}
+
+#iconor
+{
+	color:white;
+	font-size: 20px;
+	margin: 10px;
+		margin-top: 16px;
+	float:right;
+}
+
+
+
+
+/*CAJAS*/
+.titles
+{
+	color:white;
+	font-size: 35px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: left;
+	margin: 0px;
+}
+.titles2
+{
+	color:white;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: center;
+	margin: 0px;
+}
+.text{
+	margin-top: 20px;
+	
+}
+.box{
+	background-color: #238c47;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+.homeimg
+{
+	height:80px;
+	width: 80;
+	float: left;
+	margin: 5px;
+}
+
+
+/*MENU*/
+
+.menutitles
+{
+	color:black;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.menubox{
+	background-color: lightgray;
+	overflow: hidden;
+	margin-bottom: 2px;
+}
+.menutext{
+	margin-top: 12px;
+	width: 80%;
+	margin-right: 2px;
+	float: left;
+	
+}
+
+/*LEARN*/
+.box1{
+	background-color: #2D4051;
+	overflow: hidden;
+	margin-bottom: 5px;
+	height: 92%;
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.titles1
+{
+	color:white;
+	font-size: 35px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: left;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.text1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+	
+}
+
+.descripcion
+{
+	color:white;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: justify;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.bigtext
+{
+margin: 10px;
+}
+.spaceforimg
+{
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.sec1imgs
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:100%;
+
+}
+
+/*LEARN*/
+
+#pag1
+{	position: absolute;
+
+	top:0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+
+
+}
+#pag2
+{	
+	
+	position: absolute;
+	top:0;
+	left: 100%;
+	width: 100vw;
+	height: 100vh;
+	
+
+}
+
+#pag2
+{	
+	
+	position: absolute;
+	top:0;
+	left: 200%;
+	width: 100vw;
+	height: 100vh;
+	
+
+}
+
+
+/*SLIDES*/
+
+.slides{
+		width: 100vw;
+		
+}
+
+
+.item
+{
+	height: 1000%;
+}
+
+
+/*Diapositivas*/
+
+
+.titdiapos
+{
+	color:black;
+	font-size: 2em;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.contentp
+{
+	margin-bottom: 20px;
+}
+.contentt
+{
+	height: 76px;
+}
+.pdiapos
+{
+	color:black;
+	font-size: 18px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+.carousel-inner {
+  
+}
+.carousel-indicators 
+{
+	top:110%;
+
+}
+.carousel-indicators li {
+    background: #ccc;
+}
+
+.carousel-indicators .active {
+    background: #228653;
+}
+.carousel-control {
+    width: 5%;
+    margin-top: 2.5em;
+}
+.carousel-control.left .glyphicon {
+    left: 0;
+    margin-left: 0;
+}
+.carousel-control.right .glyphicon {
+    right: 0;
+    margin-right: 0;
+}
+
+/*FOOTER*/
+footer
+{
+	background-color: #238c47;
+	overflow: auto;
+	position: absolute;
+	width: 100%;
+	
+bottom: 5px;
+
+}
+.botonbot
+{
+	float: left;
+
+
+
+}
+#iconobot
+{
+	color:white;
+	font-size: 2.5em;
+	margin: .3em;
+
+	
+
+}
+
+#contentsm
+{
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+#socialmedia
+{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 5px;
+}
+
+
+#facebook i
+{
+	float: left;
+	background-color: #3B5998;
+	width: 50%;
+
+
+}
+
+#twitter i
+{
+	float: left;
+	background-color: #1DA1F2;
+	width: 50%;
+
+}
+#lets
+{
+	width: 100%;
+text-align: center;
+}
+#botonera{
+
+
+	
+
+	text-align: center;
+	
+
+}
+.botondefooter
+{
+	margin-top: 10px;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.iconscenter
+{
+	text-align: center;
+}
+
+
+
+
+/*dropdowns*/
+
+#contenedorajustes h2
+{
+	margin-left: 10px;
+	float: left;
+	margin-top: 0px;
+}
+
+.dropdown
+{
+	float: left;
+	margin-left: 3em;
+}
+#contdone{
+	position: absolute;
+	width: 100%;
+	bottom: 10px;
+	text-align: center;
+}
+#done{
+	
+	
+	background-color: #238c47;
+	color:white;
+	font-size: 20px;
+	font-weight: 100;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	padding: 5px;
+display: inline-block;
+}
+
+
+
+
+/*videos*/
+
+.thumbnail{
+	float: left;
+	margin:5px;
+
+	width: 6em;
+}
+.textovideos
+{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 65%;
+
+}
+.textoimags
+{
+	float: left;
+	margin-left: 10px;
+	margin-top: 25px;
+	width: 65%;
+
+}
+.contenedorvideo
+{
+	width: 100%;
+	text-align: center;
+
+}
+.videoframe
+{
+	width: 90%;
+	height: 30vh;
+
+}
+.subtitulo
+{
+
+	color:black;
+	font-size: 20px;
+	font-weight: 100;
+
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	padding: 5px;
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+
+.continfo
+{
+	height: 100%;
+	width: 100%;
+	position:absolute;
+	display:inline-block;
+	position:relative;
+	overflow: scroll;
+}
+.infog
+{
+	width: 100%;
+
+
+}
+.continfoext
+{
+	height: 86vh;
+}
+.continfoext2
+{
+	height: 82vh;
+}
+
+.contenedorredessociales
+{
+	margin-left:29%;
+}
+.redsocial
+{
+	float: left;
+	margin-right: 20px;
+}
